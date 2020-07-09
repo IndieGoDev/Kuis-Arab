@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<quest>
+	<atur dur='10'/>
+	<baca lvl='easy' img='E_A.jpg'/>
+	<baca lvl='easy' img='E_B.jpg'/>
+	<baca lvl='easy' img='E_C.jpg'/>
+	<baca lvl='med' img='M_A.jpg'/>
+	<baca lvl='med' img='M_B.jpg'/>
+	<baca lvl='med' img='M_C.jpg'/>
+	<baca lvl='hard' img='H_A.jpg'/>
+	<baca lvl='hard' img='H_B.jpg'/>
+	<baca lvl='hard' img='H_C.jpg'/>
+	<baca lvl='hard' img='H_D.jpg'/>
+	<baca lvl='hard' img='H_E.jpg'/>
+	<soal lvl='easy' img='E01.jpg' val='yes'/>
+	<soal lvl='easy' img='E02.jpg' val='yes'/>
+	<soal lvl='easy' img='E03.jpg' val='no'/>
+	<soal lvl='easy' img='E04.jpg' val='yes'/>
+	<soal lvl='easy' img='E05.jpg' val='no'/>
+	<soal lvl='easy' img='E06.jpg' val='yes'/>
+	<soal lvl='easy' img='E07.jpg' val='yes'/>
+	<soal lvl='med' img='M01.jpg' val='no'/>
+	<soal lvl='med' img='M02.jpg' val='yes'/>
+	<soal lvl='med' img='M03.jpg' val='yes'/>
+	<soal lvl='med' img='M04.jpg' val='no'/>
+	<soal lvl='med' img='M05.jpg' val='no'/>
+	<soal lvl='med' img='M06.jpg' val='yes'/>
+	<soal lvl='med' img='M07.jpg' val='yes'/>
+	<soal lvl='hard' img='H01.jpg' val='yes'/>
+	<soal lvl='hard' img='H02.jpg' val='yes'/>
+	<soal lvl='hard' img='H03.jpg' val='yes'/>
+	<soal lvl='hard' img='H04.jpg' val='no'/>
+	<soal lvl='hard' img='H05.jpg' val='no'/>
+	<soal lvl='hard' img='H06.jpg' val='no'/>
+	<soal lvl='hard' img='H07.jpg' val='yes'/>
+</quest>
